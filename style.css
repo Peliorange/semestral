@@ -1,3 +1,10 @@
+body {
+    background-image: url(pastel.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 .carousel {
     max-height: 30rem;
 }
@@ -6,3 +13,23 @@
     max-height: 30rem;
     object-fit: cover;
 }
+
+
+.bg-pink {
+    background-color: #ff9eb5;
+  }
+  
+  .bg-pink a {
+    color: #ff69b4;
+  }
+  
+  .bg-pink p,
+  .bg-pink small,
+  .bg-pink address {
+    color: #fff;
+  }
+  
+  .card-body {
+background-color: #ff9eb5;
+
+  }
